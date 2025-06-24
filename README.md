@@ -1,4 +1,4 @@
-# CreditRisk_Classification_Model
+# Credit_Risk_Classification_Model
 
 ## Problem Statment
 
